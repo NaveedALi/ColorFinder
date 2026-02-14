@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ColorFinder</string>
+    <string name="camera">Camera</string>
+    <string name="folder">Folder</string>
+    <string name="color_grid">Color grid</string>
+    <string name="folder_saved">Folder – saved images</string>
+    <string name="add_from_gallery">Add from gallery</string>
 </resources>
